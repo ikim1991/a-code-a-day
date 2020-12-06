@@ -1,0 +1,45 @@
+@import 'config.scss';
+
+// body{
+//     background-color: lightblue;
+//     text-align: center;
+//     -webkit-touch-callout: none;
+//     -webkit-user-select: none;
+//     -khtml-user-select: none;
+//     -moz-user-select: none;
+//     -ms-user-select: none;
+//     user-select: none;
+// }
+
+// .mario{
+//     width: 100%;
+//     padding: 20px;
+//     box-sizing: border-box;
+// }
+
+// .img{
+//     transform: translate(-200px, 200px);
+//     transform: scale(0.5, 0.5);
+//     transform: rotateZ(90deg) translateY(200px) scale(0.5, 0.5);
+// }
+
+// .circle{
+//     background: pink;
+//     color: white;
+//     cursor: pointer;
+//     width: 100px;
+//     padding: 50px 0;
+//     line-height: 0;
+//     margin: 60px auto;
+//     border-radius: 50px;
+//     transition: background 1s, transform 1s 1s ease;
+// }
+
+// .circle:hover{
+//     background:salmon;
+//     transform: rotate(360deg);
+// }
+// @import 'mario.scss';
+// @import 'popup.scss';
+// @import 'basket.scss';
+@import 'panels.scss';
